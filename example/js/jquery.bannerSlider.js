@@ -1,7 +1,7 @@
 /*!
  * BannerSlider v1.0
  * Author:     Kylin
- * Date:       2014-02-29 11:24:26
+ * Date:       2016-02-29 11:24:26
  * Email:      whenhan@foxmail.com
  * Explain:    BannerSlider Script
  * Statement:  BannerSlider Script
