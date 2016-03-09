@@ -1,5 +1,8 @@
-# BannerSlider.js
+# BannerSlider.js(v1.0 beta)
 基于JQuery的可扩展图片幻灯片展示插件。
+
+使用过程中若遇若遇其它问题请与whenhan@foxmail.com联系。
+该插件当前版本为1.0测试版本，还有许多不足之处，还请谅解，同时欢迎大家各种单位。
 
 ## 插件用法
 你需要引用如下文件：
